@@ -1,5 +1,7 @@
 Composer commands
+ 
 
+php composer.phar install --no-dev "to install without require-dev"
 
 Options:
   -h, --help                     Display this help message
